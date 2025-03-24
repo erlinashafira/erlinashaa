@@ -38,10 +38,6 @@ float luasLingkaran(float x){
                     << luasLingkaran(jejari) << endl;
                     break;
                 case 3 :
-                    break;
-                default :
-                cout << "Pilihan anda salah" << endl;
-                break;
             }
         }while(pilihan != 3);
     }
